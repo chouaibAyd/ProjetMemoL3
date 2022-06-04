@@ -1,0 +1,17 @@
+body::before{
+    content: '';
+    display: block;
+    height: 55px;
+}
+
+#services a{
+    text-decoration: none;
+}
+#choose a{
+    text-decoration: none;
+}
+#reg{
+    width: 800px;
+    height: auto;
+    margin-left: 300px;
+}
